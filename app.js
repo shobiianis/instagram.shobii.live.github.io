@@ -36,7 +36,7 @@ user.id=push(keyRef).key;
 
   set(taskReference,user);
 
- alert("poor connection")
+
 
 }
 
